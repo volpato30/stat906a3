@@ -4,7 +4,9 @@
 
 
 #include "q2.h"
+#include "q3.h"
 
 int main() {
     q2();
+    q3();
 }
